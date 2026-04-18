@@ -1,0 +1,6 @@
+{
+  "name": "職員訂餐管理系統 (Staff Meal Management)",
+  "description": "提供職員定期餐點查詢、個人消費管理以及管理員資料上傳與帳號管理功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
